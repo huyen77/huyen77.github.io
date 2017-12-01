@@ -1,19 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Huyen Joyana</title>
-  <link href="https://scontent-lax3-2.xx.fbcdn.net/v/t1.0-9/17990907_1140354899403227_5410997172740778644_n.jpg?oh=4e0dd4b24800e4e391665e21ac8e1c9c&oe=5AD134A5">
-  <link rel="18403691_1139225836182800_5890651710521584446_n (2).jpg">
+  <title>Huyen Pham</title>
+  <link href="https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Raleway:100,500,600,800" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-
   <div class="header">
-    <h1>Huyen Joyana</h1>
+    <h1>Huyen</h1>
   </div>
 
   <div class="roasting">
     <h3>My new chapter in the U.S</h3>
-    <p>Gave up on my favorite job as a Community Development Facilitator in a Japanese Non-Governmental Organization, I came to America with my new goals of life: Helping peole by teaching them how to "catch fish" rather than providing them "fish" everyday!   </p>
+    <p>Gave up on my favorite job as a Community Development Facilitator in a Japanese Non-Governmental Organization, I came to America with my new goals of life: Continue developing myself and helping people by teaching them how to "catch fish" rather than providing them "fish" everyday :)   </p>
   <br>
       <div class="spectrum">
         <div class="green">
@@ -39,14 +38,23 @@
         <div class="italian">
           <h4>How things willl turn out?</h4>
           <h5></h5>
-          <p>Positive! I'll keep you guys updated.</p>
+          <p>Positive! I'll keep you guys updated.
+</p>
         </div>
-      </div>
-  </div>
-
-  <ul>
-    
-  </ul>
-
+        <ul>
+          <div class="town">
+          <li> 
+            <h2>My favorite quote</h2>
+            <p>You make a living by what you get. You make a life by what you give</p> 
+          </li>
+          </div>
+        </ul>
+      <a href="#">Learn More about Huyen Pham</a>
+        
+ <footer>
+   <div class="bay">
+      <p>Designed by Codecademy</p>
+   </div>
+ </footer>
 </body>
 </html>
